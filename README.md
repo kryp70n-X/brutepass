@@ -13,3 +13,5 @@ installation:-
 <p>git clone https://github.com/kryp70n-X/brutepass.git</p>
 <p>cd $HOME</p>
 <p>python brutepass.py</p>
+# Screenshot
+<img src="https://kryp70n-x.github.io/brutepass/screenshot.jpg">
