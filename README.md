@@ -1,7 +1,7 @@
 # brutepass
 Numeric Brute Force Password Maker
 <br>
-<h1><p style="color:#00ffff"> Installation:</p></h1>
+<h1><p>Installation:</p></h1>
 installation:-
 
 <p>apt update</p>
@@ -14,4 +14,4 @@ installation:-
 <p>cd $HOME</p>
 <p>python brutepass.py</p>
 # Screenshot
-<img src="https://kryp70n-x.github.io/brutepass/screenshot.jpg">
+<img style="max-width:100%" src="https://kryp70n-x.github.io/brutepass/screenshot.jpg">
